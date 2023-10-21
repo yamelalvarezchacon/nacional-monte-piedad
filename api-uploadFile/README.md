@@ -13,7 +13,7 @@ Esta **API** permite subir un archivo a través de una solicitud **POST**. El ar
         "file": "archivo-en-formato-base64"
     }
 
-Reemplazar "archivo-en-formato-base64" con el contenido real del archivo en formato base64.
+Reemplazar "archivo-en-formato-base64" con el contenido real del archivo en formato base64. (Para convertir el fichero a base 64 puede utilizar el recurso https://base64.guru/converter/encode/file)
 
     {
         "file": "SWQsIG5hbWUsIGFnZSxnZW5kZXINCjEsSm9obiwyNSxNDQoyLERhdmlkLDM3LE0NCjMsSmVubmlmZXIsMjgsRg0KNCxUaW5hLDIzLEYNCjUsUGF0cmljayw0MyxN"
