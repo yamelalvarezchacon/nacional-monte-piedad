@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "b5a0a3cc-a71b-4e6b-ac2b-4ecbb64cb88f",
+		"name": "api-getFile",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17175015"
+	},
+	"item": [
+		{
+			"name": "https://e18ivakiog.execute-api.us-east-1.amazonaws.com/getInfo/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://e18ivakiog.execute-api.us-east-1.amazonaws.com/getInfo/1",
+					"protocol": "https",
+					"host": [
+						"e18ivakiog",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"getInfo",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
